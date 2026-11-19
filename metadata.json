@@ -1,0 +1,6 @@
+{
+  "name": "Digital Eden",
+  "description": "A Destiny 2 inspired 3D first-person action-RPG woven with the teachings of the Law of One: explore realms, shift densities, wield Light and Love energy, and shape your Harvest alignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
